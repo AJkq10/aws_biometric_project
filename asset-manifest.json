@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aws_biometric_project/static/css/main.021bd997.css",
+    "main.js": "/aws_biometric_project/static/js/main.78db6a28.js",
+    "static/media/visitor2.jpg": "/aws_biometric_project/static/media/visitor2.a1505b7b07dc1d8ef35a.jpg",
+    "static/media/visitor3.jpg": "/aws_biometric_project/static/media/visitor3.3b2c7e95fdce40ea6a9c.jpg",
+    "static/media/visitor1.jpg": "/aws_biometric_project/static/media/visitor1.38f9513524ca59c509b5.jpg",
+    "index.html": "/aws_biometric_project/index.html",
+    "main.021bd997.css.map": "/aws_biometric_project/static/css/main.021bd997.css.map",
+    "main.78db6a28.js.map": "/aws_biometric_project/static/js/main.78db6a28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021bd997.css",
+    "static/js/main.78db6a28.js"
+  ]
+}
